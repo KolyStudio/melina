@@ -76,7 +76,7 @@
 	<div class="lg:w-2/5 lg:m-auto">
 	<div class={show ? 'show' : 'noshow'}>
 		<div class="relative p-4">
-			<div class="flex justify-center absolute right-0 left-0 top-[10px]">
+			<div class="flex justify-center absolute right-0 left-0 top-[25px]">
 				<div
 					class="fade-inn rounded-lg text-white bg-[#09BC8A]  px-3 py-1 text-center text-xs font-semibold uppercase"
 				>
