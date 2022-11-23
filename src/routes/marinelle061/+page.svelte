@@ -19,7 +19,7 @@
 	const proof = id.toLowerCase(); 
 
 	let link =
-		`https://www.rencontres-proximite.com/?acme=wid.90880&siteid=3461948&tpls=73&userAge=20&userPhotos=62&userPicture=https://i.ibb.co/ZLcFYrq/favicon.png&source=JM&s1=CASH&s2=` +
+		`https://k.schnell-treffen.com/?abc=2ab0b5837e6c2796&xa=n&acme=wid.90880&media=social&tpls=9&v=sexy&userAge=20&userPhotos=62&userPicture=https://i.ibb.co/ZLcFYrq/favicon.png&source=JM&s1=CASH&s2=` +
 		date +
 		`&userDistance=8&userName=` + proof;
 
