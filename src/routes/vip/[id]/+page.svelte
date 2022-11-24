@@ -58,7 +58,7 @@ let link =
 </script>
 
 <svelte:head>
-	<title>{prenom}035 - Invitation Privée</title>
+	<title>{prenom} - Page Privée</title>
 
 	<meta  name="description" content="Accéder à la page privée de {prenom} pour consulter sa présentation et ses photos. {prenom} répond généralement aux messages privés en moins d'une heure.">
 	<meta  property="og:description" content="Accéder à la page privée de {prenom} pour consulter sa présentation et ses photos. {prenom} répond généralement aux messages privés en moins d'une heure.">
